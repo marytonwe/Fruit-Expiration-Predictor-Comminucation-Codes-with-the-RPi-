@@ -1,5 +1,6 @@
 '''
 Hello
+
 This repository contains codes I used to enable some electronic components communicate with the Raspberry Pi. 
 The goal of theis project was to create a device that can predict the date a fruit would expire however due to limited
 data and time alloted to this project, we were able to create a device that predicts with a high degree of accuracy,
