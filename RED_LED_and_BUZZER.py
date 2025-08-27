@@ -1,6 +1,5 @@
 '''
 Libraries to be installed 
-Follow the steps on chat to install pip on your rpi
 pip3 install RPi.GPIO
 
 '''
